@@ -1,5 +1,13 @@
 # QMKL
 
+_**This project is suspended currently!**_
+
+To avoid our competitors use this library illegally,
+we, [Idein Inc.](https://github.com/Idein) will develop this library internally.
+After we started shipping our products or get off the ground
+or in such a situation, we will make our private repository public.
+Please wait a few!
+
 
 QMKL is **Math Kernel Library for VideoCore IV QPU**.
 QMKL is **compatible with Intel MKL**
