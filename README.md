@@ -1,17 +1,18 @@
 # QMKL
 
-_**This project is suspended currently!**_
-
-To avoid our competitors use this library illegally,
-we, [Idein Inc.](https://github.com/Idein) will develop this library internally.
-After we started shipping our products or get off the ground
-or in such a situation, we will make our private repository public.
-Please wait a few!
-
-
 QMKL is **Math Kernel Library for VideoCore IV QPU**.
 QMKL is **compatible with Intel MKL**
 except for double precision etc.
+
+_**This repository is suspended currently!**_
+
+This project has temporarily moved to [Idein Inc.](https://github.com/Idein)
+and it's under closed development for better functionality and speed.
+We are planning to re-open the code. Please wait a few!
+
+We, Idein Inc., did some object recognition demos using GoogLeNet with
+[Raspberry Pi 3](https://twitter.com/9_ties/status/858291781133148160) and
+[Raspberry Pi Zero](https://twitter.com/9_ties/status/858300756092375040).
 
 
 ## Requirements
