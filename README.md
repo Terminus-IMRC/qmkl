@@ -10,7 +10,8 @@ This project has temporarily moved to [Idein Inc.](https://github.com/Idein)
 and it's under closed development for better functionality and speed.
 We are planning to re-open the code. Please wait a few!
 
-We, Idein Inc., did some object recognition demos using GoogLeNet with
+We, Idein Inc., did some object recognition demos
+using GoogLeNet accelerated by QMKL on
 [Raspberry Pi 3](https://twitter.com/9_ties/status/858291781133148160) and
 [Raspberry Pi Zero](https://twitter.com/9_ties/status/858300756092375040).
 
