@@ -10,8 +10,9 @@ This project has temporarily moved to [Idein Inc.](https://github.com/Idein)
 and it's under closed development for better functionality and speed.
 We are planning to re-open the code. Please wait a few!
 
-We, Idein Inc., did some object recognition demos
-using GoogLeNet accelerated by QMKL on
+We, Idein Inc., did some object recognition demos (GoogLeNet etc.) on Raspberry
+Pi. The demos run on QPU with QMKL and our private libraries which are highly
+optimized for neural networks. There are movies of that:
 [Raspberry Pi 3](https://twitter.com/9_ties/status/858291781133148160) and
 [Raspberry Pi Zero](https://twitter.com/9_ties/status/858300756092375040).
 
